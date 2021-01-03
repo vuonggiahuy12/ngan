@@ -1,0 +1,480 @@
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            
+            ul li {
+                text-align: none;
+            }
+            
+            ul li a {
+                text-decoration: none;
+                font-family: "Oswald", sans-serif;
+                font-size: 20px;
+            }
+            
+            ul li a:hover {
+                text-align: none;
+                text-decoration: none;
+            }
+            
+            img {
+                opacity: 1;
+                display: inline-block;
+            }
+            
+            .menu {
+                height: 60px;
+                width: 100%;
+            }
+            
+            .navbar-header {
+                background-color: white;
+            }
+            
+            .menu ul li a {
+                color: #3ab54a;
+            }
+            
+            header img {
+                height: 50px;
+                width: 70px;
+                position: absolute;
+                margin-top: -10px;
+            }
+            
+            .navbar-toggle {
+                padding: 10px;
+                background-color: teal;
+            }
+            
+            .icon-bar {
+                background-color: white;
+            }
+            
+            .btn {
+                margin-right: 27px;
+                padding: 7px 24px;
+                font-size: 17px;
+                border-radius: 30px;
+                margin-top: 22px;
+            }
+            
+            .clear-fix {
+                clear: both;
+            }
+            
+            .menu-fluid {
+                width: 1339px;
+                height: auto;
+            }
+            
+            .hang0 {
+                margin-top: 20px;
+                color: rgb(255, 158, 0);
+            }
+            
+            .navbar-fixed-top {
+                width: 100%;
+                height: 69px;
+                border-bottom: 0.5px solid rgba(0, 0, 0, 0.001);
+                background-color: white;
+            }
+            
+            .t1 {
+                display: inline-block;
+                width: 40%;
+                border-bottom: 1px solid#ccc;
+                margin-top: -1px;
+            }
+            
+            .hang0 h4 {
+                display: inline-block;
+            }
+            
+            .t2 {
+                display: inline-block;
+                width: 40%;
+                border-bottom: 1px solid#ccc;
+                margin-top: -1px;
+            }
+            
+            .hang1 img {
+                height: 303px;
+                width: 303px;
+            }
+            
+            .traihang1 {
+                display: block;
+                margin-left: 267px;
+            }
+            
+            .gia {
+                font-weight: bold;
+                color: #FF9800;
+                font-size: 30px;
+                display: inline;
+            }
+            
+            span {
+                font-size: 20px;
+                color: #FF9800;
+                font-weight: bold;
+            }
+            
+            .hang1 span {
+                text-align: center;
+            }
+            
+            .hang1 p {
+                margin-top: 50px;
+                margin-left: 200px;
+            }
+            
+            h3 {
+                font-size: 18px;
+                color: white;
+                background-color: #00a74c;
+                text-align: center;
+            }
+            
+            .hang1 h3 {
+                width: 230px;
+                min-height: 30px;
+                padding: 7px 10px;
+                margin-left: 200px;
+                font-size: 17px;
+            }
+            
+            .giah1 {
+                display: block;
+                margin-left: -200px;
+            }
+            
+            .hang2 img {
+                height: 306.03px;
+                width: 306.03px;
+            }
+            
+            .hang2 h3 {
+                padding: 6px;
+            }
+            
+            .moi {
+                padding: 7px 9px;
+            }
+            
+            .hang3 img {
+                display: block;
+                height: 268px;
+                width: 268px;
+            }
+            
+            .hang3 h3 {
+                padding: 4px 6px;
+                display: block;
+            }
+            
+            .hang31 {
+                padding: 5px;
+            }
+            
+            .hinh201 {
+                margin-left: 127px;
+            }
+            
+            .hinh202 {
+                margin-left: 47px;
+            }
+            
+            .hinh202 h3 {
+                width: 200px;
+                height: 40px;
+                text-align: center;
+            }
+            
+            .hinh203 {
+                margin-left: -47px;
+            }
+            
+            .hinh203 h3 {
+                width: 150px;
+                height: 40px;
+            }
+            
+            .logo img {
+                display: block;
+                width: 700px;
+                height: 206px;
+                margin-inline: auto;
+            }
+            
+            .hang5 img {
+                height: 249px;
+                width: 249px;
+            }
+            
+            .hang5 h3 {
+                width: 170px;
+                height: 40px;
+                text-align: center;
+            }
+            
+            .hang6 img {
+                height: 249px;
+                width: 249px;
+            }
+            
+            .hang6 h3 {
+                width: 200px;
+                height: 40px;
+            }
+            
+            .hang7 {
+                text-align: center;
+                font-size: 19.25px;
+                color: #111;
+                margin-inline: auto;
+            }
+            
+            .hang7 h3 {
+                padding: 4px 0px;
+                display: block;
+                margin-left: 20px;
+            }
+            
+            .hang8 {
+                text-align: center;
+                font-size: 19.25px;
+                color: #111;
+            }
+            
+            .tv {
+                display: block;
+                border-bottom: 1px solid #ccc;
+                width: 100%;
+                margin-bottom: 15px;
+            }
+            
+            .tinh {
+                padding: 20px;
+                width: 69px;
+                display: inline;
+            }
+            
+            .bando {
+                height: 150px;
+            }
+            
+            .bando p {
+                display: inline;
+            }
+            
+            .bando select {
+                padding: 20px;
+                width: 347px;
+                height: 35px;
+            }
+            
+            .tk {
+                width: 129px;
+                height: 50px;
+                background: purple;
+                border-radius: 6px;
+                font-size: 20px;
+                color: white;
+            }
+            
+            .bando p {
+                font-size: 20px;
+                color: black;
+                float: left;
+                margin-right: 20px;
+            }
+            
+            select {
+                margin: 0 20px;
+                font-family: "Oswald", sans-serif;
+                color: #333;
+                display: block;
+                float: left;
+            }
+            
+            .bando {
+                background-color: #f2f2f2;
+            }
+            
+            .diachi {
+                height: 200px;
+            }
+            
+            .band {
+                width: 800px;
+            }
+            
+            .map {
+                background-color: #E6E6E6;
+                height: 500px;
+            }
+            
+            footer {
+                width: 100%;
+                height: 60px;
+                color: white;
+                background-color: #00a74c;
+            }
+            
+            footer p {
+                color: rgba(0, 0, 0, 0.5);
+                margin-top: 20px;
+                font-size: 20px;
+            }
+            
+            .bando a {
+                font-size: 20px;
+                color: #81d742;
+            }
+            
+            img:hover {
+                transform: scale(1.05);
+            }
+            
+            a:hover {
+                text-decoration: none;
+            }
+            
+            .hang10 img {
+                display: block;
+                margin: 20px 0;
+            }
+            
+            .dc {
+                font-size: 16px;
+            }
+            
+            .row1>.column {
+                padding: 0 8px;
+            }
+            
+            .row1:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+            
+            .column {
+                float: left;
+                width: 25%;
+            }
+            /* The Modal (background) */
+            
+            .modal {
+                display: none;
+                position: fixed;
+                z-index: 1;
+                padding-top: 100px;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                overflow: auto;
+                background-color: black;
+            }
+            /* Modal Content */
+            
+            .modal-content {
+                position: relative;
+                background-color: #fefefe;
+                margin: auto;
+                padding: 0;
+                width: 90%;
+                max-width: 1200px;
+            }
+            /* The Close Button */
+            
+            .close {
+                color: white;
+                position: absolute;
+                top: 69px;
+                right: 25px;
+                font-size: 76px;
+                font-weight: bold;
+            }
+            
+            .close:hover,
+            .close:focus {
+                color: #111;
+                text-decoration: none;
+                cursor: pointer;
+            }
+            
+            .mySlides {
+                display: none;
+            }
+            
+            .cursor {
+                cursor: pointer;
+            }
+            /* Next & previous buttons */
+            
+            .prev,
+            .next {
+                cursor: pointer;
+                position: absolute;
+                top: 50%;
+                width: auto;
+                padding: 16px;
+                margin-top: -50px;
+                color: white;
+                font-weight: bold;
+                font-size: 20px;
+                transition: 0.6s ease;
+                border-radius: 0 3px 3px 0;
+                user-select: none;
+                -webkit-user-select: none;
+            }
+            /* Position the "next button" to the right */
+            
+            .next {
+                right: 0;
+                border-radius: 3px 0 0 3px;
+            }
+            /* On hover, add a black background color with a little bit see-through */
+            
+            .prev:hover,
+            .next:hover {
+                background-color: rgba(0, 0, 0, 0.8);
+            }
+            /* Number text (1/3 etc) */
+            
+            .numbertext {
+                color: #f2f2f2;
+                font-size: 12px;
+                padding: 8px 12px;
+                position: absolute;
+                top: 0;
+            }
+            
+            .caption-container {
+                text-align: center;
+                background-color: black;
+                padding: 2px 16px;
+                color: white;
+            }
+            
+            .demo {
+                opacity: 0.6;
+            }
+            
+            .active,
+            .demo:hover {
+                opacity: 1;
+            }
+            
+            img.hover-shadow {
+                transition: 0.3s;
+            }
+            
+            .hover-shadow:hover {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
